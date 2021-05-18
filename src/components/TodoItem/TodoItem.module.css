@@ -1,0 +1,19 @@
+.item {
+  max-height: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  background-color: #f7f5ef;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item button {
+  border: none;
+  padding: 1rem;
+  border-radius: 4px;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
